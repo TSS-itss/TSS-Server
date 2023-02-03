@@ -1,7 +1,7 @@
 # TSS-Server
 # TSS Server
 
-TSS Server is used to host api and render pwa to client.
+TSS Server is used to host api and render pwa to client..
 
 ## Installation
 
